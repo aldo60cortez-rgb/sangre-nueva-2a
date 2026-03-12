@@ -6,27 +6,41 @@
     <title>Aldo Angel | Portal de Luz</title>
     <style>
         body { background-color: #050505; color: #E0E0E0; font-family: 'Segoe UI', sans-serif; margin: 0; padding: 0; text-align: center; }
-        .hero { padding: 120px 20px; background: radial-gradient(circle, #1a1a1a 0%, #050505 80%); }
+        .hero { padding: 120px 20px; background: radial-gradient(circle, #1a1a1a 0%, #050505 80%); transition: opacity 1s ease; }
         h1 { color: #D4AF37; font-size: 2.5rem; letter-spacing: 2px; }
         .sangre-nueva { font-size: 1.2rem; color: #A0A0A0; margin-top: 20px; font-style: italic; }
         .boton-entrar { margin-top: 40px; padding: 15px 40px; border: 1px solid #D4AF37; background: transparent; color: #D4AF37; cursor: pointer; transition: 0.4s; }
         .boton-entrar:hover { background: #D4AF37; color: #000; }
-        .footer-contacto { margin-top: 100px; padding: 30px; font-size: 0.9rem; color: #666; border-top: 1px solid #222; }
+        #manual { display: none; opacity: 0; transition: opacity 1s ease; padding: 50px 20px; color: #D4AF37; }
     </style>
 </head>
 <body>
 
-    <section class="hero">
+    <section id="inicio" class="hero">
         <h1>"Yo soy la puerta abierta que nadie puede cerrar"</h1>
         <p>Sanadora por orden del Altísimo.</p>
         <div class="sangre-nueva">Bienvenido al Sonido. La Nueva Era, la Sangre Nueva. 2ble AA, Naldo.</div>
-        <button class="boton-entrar" onclick="alert('Entrando al Silencio...')">Entrar al Silencio</button>
+        <button class="boton-entrar" onclick="entrarAlSilencio()">Entrar al Silencio</button>
     </section>
 
-    <footer class="footer-contacto">
-        <p>Si alguien tiene alguna duda, puede comunicarse conmigo.</p>
-        <p>© 2026 Aldo Angel | Gloria a Al Alim</p>
-    </footer>
+    <section id="manual">
+        <h2>Manual del Guerrero Invulnerable</h2>
+        <p>"Mi presencia cambia las cosas porque camino en el silencio, siendo discreto, siempre de la mano del Señor."</p>
+        <p>La fuerza del Dios vivo activa mi mente y sana mi cuerpo.</p>
+    </section>
 
+    <script>
+        function entrarAlSilencio() {
+            const inicio = document.getElementById('inicio');
+            const manual = document.getElementById('manual');
+            inicio.style.opacity = '0';
+            setTimeout(() => {
+                inicio.style.display = 'none';
+                manual.style.display = 'block';
+                setTimeout(() => { manual.style.opacity = '1'; }, 50);
+            }, 1000);
+        }
+    </script>
 </body>
 </html>
+
