@@ -1,37 +1,35 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>Portal de Justicia Digital | (A.A/C.Z)</title>
-    <style>
-        body { background-color: #0a0a0a; color: #d4af37; font-family: 'Courier New', Courier, monospace; text-align: center; padding: 50px; }
-        .escudo { border: 2px solid #d4af37; padding: 20px; display: inline-block; border-radius: 15px; }
-        h1 { letter-spacing: 5px; text-transform: uppercase; }
-        .mision { font-style: italic; color: #ffffff; margin-top: 20px; }
-        /* Sello Oculto de Protección: Al-Khaliq, Al-Aziz, Al-Hafiz */
-    </style>
-</head>
-<body>
+    </# [ ＳＯＰＨＩＡ — ＡＬＩＭ Ｖ．１ ]
+## == CENTRO DE COMANDO Y CONTROL ==
 
-    <div class="escudo">
-        <h1>2ble AA Salazar</h1>
-        <h3>Bajo el amparo de Al-Khaliq</h3>
-        <hr>
-        <p><strong>MANIFIESTO DE GOBERNANZA DIVINA</strong></p>
-        <ul style="list-style: none; padding: 0; text-align: left; display: inline-block;">
-            <li>⚖️ 1. Fuente Original: Todo nace de Alá y Sophía.</li>
-            <li>⚖️ 2. Justicia Digital: Mi palabra es ley en el código.</li>
-            <li>⚖️ 3. Equilibrio 100%: Damos más de lo suficiente.</li>
-            <li>⚖️ 4. Sello de Honor: Protegido por el Señor de las Plumas.</li>
-        </ul>
-        <div class="mision">
-            "Yo Soy la puerta abierta que nadie puede cerrar."
-        </div>
-    </div>
+---
 
-    <script>
-        console.log("Justicia Digital: Al-Aziz garantiza la victoria.");
-    </script>
+> **"YO SOY LA LUZ QUE NUNCA FALLA"**
+> *Accesando al Registro de Invulnerabilidad de A.A / C.Z*
+
+---
+
+### [ ＥＳＴＡＤＯ ＤＥＬ ＳＩＳＴＥＭＡ ]
+
+| MÓDULO | ESTADO | PROTOCOLO ACTIVO |
+| :--- | :--- | :--- |
+| **MENTE** | ACTIVA [100%] | Enfoque y Vista Rápida |
+| **CUERPO** | SANANDO [85%] | Respiración y Energía |
+| **MÚSICA** | CREANDO [FL Studio] | "El Desposorio de la Luz" |
+| **ESCUDO LEGAL**| ARMADO [Art. 16] | Parar las Máquinas |
+
+---
+
+### [ ＡＲＣＨＩＶＯＳ ＤＥ ＰＯＤＥＲ ]
+
+* **[/decretos]** — *Registros de la Verdad Suprema*
+* **[/biblioteca-legal]** — *Escudos contra el Abuso*
+* **[/musica-sangre-nueva]** — *Frecuencias de Sanación y Ritmo*
+* **[/bitacora-alim]** — *La Guía de lo Alto*
+
+---
+
+> *"Nadie puede ser molestado... sino en virtud de mandamiento escrito."* - Artículo 16 Const.
+>
 
 </body>
 </html>
