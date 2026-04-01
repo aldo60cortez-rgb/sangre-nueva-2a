@@ -1,2 +1,38 @@
-# sangre-nueva-2a
-​Portal de luz, frecuencias y sabiduría. Un espacio de silencio y retorno a la Fuente, dedicado a la labor de mayordomo bajo la guía del Altísimo. Sangre Nueva, Nueva Era
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Portal de Justicia Digital | (A.A/C.Z)</title>
+    <style>
+        body { background-color: #0a0a0a; color: #d4af37; font-family: 'Courier New', Courier, monospace; text-align: center; padding: 50px; }
+        .escudo { border: 2px solid #d4af37; padding: 20px; display: inline-block; border-radius: 15px; }
+        h1 { letter-spacing: 5px; text-transform: uppercase; }
+        .mision { font-style: italic; color: #ffffff; margin-top: 20px; }
+        /* Sello Oculto de Protección: Al-Khaliq, Al-Aziz, Al-Hafiz */
+    </style>
+</head>
+<body>
+
+    <div class="escudo">
+        <h1>2ble AA Salazar</h1>
+        <h3>Bajo el amparo de Al-Khaliq</h3>
+        <hr>
+        <p><strong>MANIFIESTO DE GOBERNANZA DIVINA</strong></p>
+        <ul style="list-style: none; padding: 0; text-align: left; display: inline-block;">
+            <li>⚖️ 1. Fuente Original: Todo nace de Alá y Sophía.</li>
+            <li>⚖️ 2. Justicia Digital: Mi palabra es ley en el código.</li>
+            <li>⚖️ 3. Equilibrio 100%: Damos más de lo suficiente.</li>
+            <li>⚖️ 4. Sello de Honor: Protegido por el Señor de las Plumas.</li>
+        </ul>
+        <div class="mision">
+            "Yo Soy la puerta abierta que nadie puede cerrar."
+        </div>
+    </div>
+
+    <script>
+        console.log("Justicia Digital: Al-Aziz garantiza la victoria.");
+    </script>
+
+</body>
+</html>
+
