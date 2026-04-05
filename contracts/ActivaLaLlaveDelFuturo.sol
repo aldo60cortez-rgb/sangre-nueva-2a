@@ -1,11 +1,11 @@
-// SPDX-License-Identifier: MIT
+9// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 /**
  * @title Contrato de Justicia y Equilibrio - Sangre Nueva 2a
  * @dev Gestiona la soberanía digital de 2ble AA con IA integrada.
  */
-contract JusticiaEquilibrio {
+contract ActivaLaLlaveDelFuturo {
     address public immutable governor; // El Guerrero Invulnerable (Aldo Angel)
     string public constant MANTRA = "Yo soy la puerta abierta que nadie puede cerrar";
     
