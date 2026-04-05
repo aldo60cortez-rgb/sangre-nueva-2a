@@ -2,7 +2,7 @@
 ## Proyecto: Sangre Nueva 2a - Ecosistema Web3IA
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aldo60cortez-rgb/sangre-nueva-2a/main/contracts/abrazo-cuantico.jpg" width="400">
+  <img src="https://raw.githubusercontent.com/aldo60cortez-rgb/sangre-nueva-2a/main/abrazo-cuantico.jpg" width="400">
 </p>
 
 > **"Yo soy la puerta abierta que nadie puede cerrar"**
