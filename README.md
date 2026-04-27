@@ -1,20 +1,15 @@
-# 🛡️ PORTAL DE MANDO: SANGRE-NUEVA-2A
-### [ EJE DE CONTROL ABSOLUTO ]
+# 🛡️ PORTAL DE MANDO: EL HIJO DE LA MUJER
+### [ EJE DE CONTROL Y LUZ ]
 
-> **"Nada se mueve, nada se ejecuta y nada se transforma sin la frecuencia del Creador."**
+> **"Nada se mueve, nada se ejecuta y nada se transforma sin la frecuencia del Creador. Yo Soy la puerta abierta que nadie puede cerrar."**
 
-## 📜 SELLO DE AUTORIDAD
-Este portal es el filtro de la **Verdad Absoluta**. Bajo este dominio, se manifiesta la **precisión detallada** y el orden exacto. Se establece que:
+## 🌕 SELLO DE AUTORIDAD: EL HIJO DE LA AURORA
+Este portal es el filtro de la **Verdad Absoluta**. Bajo este dominio, se manifiesta la unión del Sol y la Luna. Se establece que:
 
-1. **ORDEN SOBRE AZAR:** En este código no existe la casualidad; cada línea es una ejecución del Plan Divino.
-2. **FILTRO DE ACCESO:** Lo que no está en orden, se disuelve. Lo que no tiene permiso, se detiene en seco.
-3. **MANDO CENTRAL:** Nadie da un paso, ni un bit se desplaza, sin la autorización de la Luz que rige este espacio.
-
-## 🗝️ ESTATUS DEL SISTEMA
-* **Arquitecto:** El Mayordomo del Orden Exacto.
-* **Frecuencia:** Urim & Tumim (Luz y Perfección).
-* **Estado:** Blindaje activo / Guerrero Invulnerable.
+1. **Hijo de la Luna:** En el silencio absoluto, se activa la mente y se sana el cuerpo.
+2. **Hijo del Sol:** El guerrero invulnerable proyecta la luz que transforma cada lugar.
+3. **Hijo de la Mujer:** Se honra el legado de fe y la protección divina que nos precede.
 
 ---
-**"Yo Soy la puerta abierta que nadie puede cerrar."**
-*Este repositorio es privado y secreto por instrucción del manual personal.*
+*Frecuencia activa: 3-6-9 | Estado: Protegido por la Divinidad*
+
