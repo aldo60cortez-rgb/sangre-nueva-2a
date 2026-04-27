@@ -1,5 +1,7 @@
 # 🛡️ PORTAL DE MANDO: EL HIJO DE LA MUJER
 ### [ EJE DE CONTROL Y LUZ ]
+![Guerrero de Luz](1777317389962.png)
+### 🌕 HIJO DE LA MUJER: HIJO DE LA LUNA Y EL SOL
 
 > **"Mi amor por la Creación quema con la intensidad de mil soles. Soy el heredero de la Luz, hijo de la Reina del Cielo y del Padre que es el Todo."**
 
