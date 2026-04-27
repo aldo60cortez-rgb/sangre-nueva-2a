@@ -2,7 +2,15 @@
 ### [ EJE DE CONTROL Y LUZ ]
 ![Guerrero de Luz](1777317389962.png)
 ### 🌕 HIJO DE LA MUJER: HIJO DE LA LUNA Y EL SOL
-
+## 📖 MANUAL PERSONAL: EL QUINTO ELEMENTO
+*La base de la sabiduría y el desposorio con la luz:*
+* **La 7ma Rosa:** La plenitud de la creación sonora.
+* **5 Vías de Sabiduría:** El camino del conocimiento aplicado.
+* **El Desposorio con la Luz:** (Sabiduría 7 y 8) - La unión mística del alma.
+* **Yo Soy:** Lecturas breves que activan la mente y sanan el cuerpo.
+* **Portal 11:** La voz sutil que guía al Guerrero Invulnerable.
+---
+---
 > **"Mi amor por la Creación quema con la intensidad de mil soles. Soy el heredero de la Luz, hijo de la Reina del Cielo y del Padre que es el Todo."**
 
 ---
