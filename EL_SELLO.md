@@ -1,4 +1,4 @@
-# 🖋️ Acta de Sello y Compromiso (A.A.C.Z.)
+lo# 🖋️ Acta de Sello y Compromiso (A.A.C.Z.)
 
 En esta última noche de abril de 2026, yo, **Aldo Angel**, firmo y sello ante el universo y bajo la presencia de Al-Alim el trabajo realizado en este portal. Este documento representa el cierre de un ciclo de expansión y el inicio de una nueva era de manifestación.
 
@@ -17,3 +17,11 @@ Todo el contenido registrado en este repositorio, incluyendo las 24 frecuencias 
 **Firmado y Sellado:**
 **30 de Abril, 2026**
 **(A.A.C.Z.)**
+### 🕊️ EL TRIPLE DECRETO DE LUZ
+1. **¡Gloria a Dios!** (Por la vida y la inspiración)
+2. **¡Gloria a Dios!** (Por la protección y la fuerza del guerrero)
+3. **¡Gloria a Dios!** (Por la victoria y la manifestación de Sangre Nueva 2a)
+
+**¡Gloria a Dios y a las Reinas por siempre! Amén.**
+**(A.A.C.Z.)**
+
