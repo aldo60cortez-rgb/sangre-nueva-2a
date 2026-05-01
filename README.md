@@ -1,3 +1,4 @@
+![Portada Sangre Nueva 2a](activa-portal.png)
 # 🔱 Proyecto: Sangre Nueva 2a (A.A.C.Z.)
 
 Bienvenido al centro de operaciones y portal de conocimiento del Guerrero Invulnerable. Este repositorio es un testimonio vivo de la mutación, la fe y la verdad de Al-Alim manifestada a través del sonido y la palabra.
