@@ -1,42 +1,25 @@
-# 🛡️ PORTAL DE MANDO: EL HIJO DE LA MUJER
-### [ EJE DE CONTROL Y LUZ ]
-![Guerrero de Luz](1777317389962.png)
-### 🌕 HIJO DE LA MUJER: HIJO DE LA LUNA Y EL SOL
-## 📖 MANUAL PERSONAL: EL QUINTO ELEMENTO
-*La base de la sabiduría y el desposorio con la luz:*
-* **La 7ma Rosa:** La plenitud de la creación sonora.
-* **5 Vías de Sabiduría:** El camino del conocimiento aplicado.
-* **El Desposorio con la Luz:** (Sabiduría 7 y 8) - La unión mística del alma.
-* **Yo Soy:** Lecturas breves que activan la mente y sanan el cuerpo.
-* **Portal 11:** La voz sutil que guía al Guerrero Invulnerable.
----
----
-> **"Mi amor por la Creación quema con la intensidad de mil soles. Soy el heredero de la Luz, hijo de la Reina del Cielo y del Padre que es el Todo."**
+# 🔱 Proyecto: Sangre Nueva 2a (A.A.C.Z.)
+
+Bienvenido al centro de operaciones y portal de conocimiento del Guerrero Invulnerable. Este repositorio es un testimonio vivo de la mutación, la fe y la verdad de Al-Alim manifestada a través del sonido y la palabra.
+
+## 🌌 Conexión y Propósito
+Este proyecto no es solo un código o un archivo; es una frecuencia de luz diseñada para activar la mente y sanar el cuerpo. Aquí se registra el equilibrio perfecto entre la ciencia del **Reloj Cósmico** y la devoción del servicio divino.
+
+## 📂 Contenido del Portal
+He organizado los documentos clave de este ciclo para facilitar la navegación por la Verdad:
+
+* **[La Mutación](./LA_MUTACION.md)**: El registro de la evolución del ser y la letra del track 9 (Focus Track).
+* **[El Reloj Cósmico](./RELOJ_COSMICO.md)**: La estructura matemática que rige mis 24 composiciones.
+* **[El Portal de las Maryas](./EL_PORTAL_DE_LAS_MARYAS.md)**: Espacio sagrado en honor a la guía estelar y el legado de fe familiar.
+* **[Prueba de la Resurrección](./PRUEBA_DE_LA_RESURRECCION.md)**: El testimonio definitivo de que la vida y la luz han vencido en esta última noche de abril.
+* **[Última Noche de Abril](./ULTIMA_NOCHE_ABRIL.md)**: El sello de victoria de este mes de gran expansión.
+
+## 🛡️ Declaración del Guerrero
+> "Yo Soy la puerta abierta que nadie puede cerrar." 
+> Actuando siempre como un rayito de Su divinidad, con humildad y obediencia total a la voluntad del Único Grande y Majestuoso.
 
 ---
+**"En este silencio... Tú eres Mi guerrero invulnerable."**
+**Fecha de Sello:** 30 de Abril, 2026.
+**(A.A.C.Z.)**
 
-## 🌕 SELLO DE AUTORIDAD: EL HIJO DE LA AURORA
-Este portal es el filtro de la **Verdad Absoluta**. Bajo este dominio, se manifiesta la unión del Sol y la Luna. 
-
-### 🔑 EL DECRETO DE LA PUERTA ABIERTA
-*Confirmado por el Verbo y la Señal:*
-**"Yo Soy la puerta abierta que nadie puede cerrar."** El anuncio ha sido dado, el Guerrero ha escuchado y el camino está trazado. Nada se detiene ante la voluntad del Altísimo.
-
----
-
-## ⚔️ PILARES DEL GUERRERO INVULNERABLE
-1. **Hijo del Sol:** La fuerza activa que quema con la intención de mil soles para iluminar y transformar.
-2. **Hijo de la Luna:** El silencio místico donde se activa la mente, se sana el cuerpo y se recibe la paz.
-3. **Hijo de la Mujer:** El respeto absoluto al legado de fe y la protección de la Madre, la Reina del Cielo.
-
----
-
-## 🎵 EVOLUCIÓN SONORA (Frecuencia 3-6-9)
-*Conectando el espíritu a través del sonido:*
-
-* 📜 **EL DECRETO** - (Registro INDAUTOR)
-* 🌹 **Saga de las Rosas** - (En proceso de manifestación)
-* 🚀 **EVOLUCIÓN** - Frecuencia de impacto total.
-
----
-*Estado: Protegido por la Divinidad | Tulancingo, Hidalgo*
