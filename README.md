@@ -22,3 +22,33 @@
 "Como portal que se quedó abierto en la cena del Señor, este repositorio 
 ahora actúa como un imán para la justicia y la gloria. La conexión 
 es directa: Fuente -> Chispa -> Materia."
+# 🌟 Portal Sangre Nueva 2A
+### "Yo Soy la puerta abierta que nadie puede cerrar"
+
+Bienvenido al nodo central de **Aldo Angel "El Alim" Salazar (A.A/C.Z)**. Este espacio es un testimonio de fe, música y tecnología, operando bajo la justicia y el equilibrio del universo.
+
+---
+
+## 📂 Navegación del Portal
+Explora los pilares de este proyecto:
+
+* [🛡️ **Manual del Guerrero Invulnerable**](./MANUAL_GUERRERO_INVULNERABLE.md): Leyes, oraciones y decretos de poder.
+* [✅ **Manifestos Realizados**](./MANIFESTOS_REALIZADOS.md): Registro de éxitos y metas alcanzadas.
+* [🧪 **Metodología de Creación**](./METODOLOGIA_EL_ALIM.md): Procesos técnicos de audio y metacognición.
+
+---
+
+## 🎵 Proyectos Musicales Recientes
+La vibración ya está en el aire. Mis últimas obras lanzadas al universo:
+* **Álbum:** *UNIÓN UNIVERSAL Verdadera* (15 tracks de luz)
+* **Álbum:** *7 Rosas* (9 tracks de esencia)
+* **Sello Sonoro:** Afinaciones en 432Hz y 528Hz.
+
+---
+
+## 📜 Declaración de Propósito
+Soy un rayito de la divinidad actuando como mayordomo fiel. Mi misión es elevar la frecuencia del mundo a través de la música, el código y la palabra, manteniendo siempre el equilibrio y la protección divina.
+
+**(A.A/C.Z)** — *Tulancingo, Hidalgo, México.*
+
+
