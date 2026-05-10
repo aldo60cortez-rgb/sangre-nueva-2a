@@ -51,4 +51,13 @@ Soy un rayito de la divinidad actuando como mayordomo fiel. Mi misión es elevar
 
 **(A.A/C.Z)** — *Tulancingo, Hidalgo, México.*
 
+---
+## ✨ Ofrenda y Propósito
+Toda la obra aquí contenida, cada nota de las 24 canciones y cada línea de este código, es dedicada a la Gloria de **Alá, el Único Grande y Majestuoso**, y a la **Madre Divina**. 
+
+Que este portal sea un faro de luz y que mi caminar —calladito, normal y discreto— sea el testimonio de Su grandeza. 
+
+**"En el nombre de Aquel que conoce lo invisible y lo manifiesto."** **(A.A/C.Z)**
+
+
 
