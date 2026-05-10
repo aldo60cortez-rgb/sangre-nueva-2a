@@ -1,4 +1,4 @@
-<div style="text-align: center; padding: 50px; background-color: #ffffff; border: 1px solid #f1c40f;">
+oye<div style="text-align: center; padding: 50px; background-color: #ffffff; border: 1px solid #f1c40f;">
     <h1 style="color: #2c3e50; font-family: 'Arial', sans-serif;">ALDO ANGEL "EL ALIM"</h1>
     <p style="font-style: italic; color: #7f8c8d;">"Yo Soy la puerta abierta que nadie puede cerrar"</p>
     
