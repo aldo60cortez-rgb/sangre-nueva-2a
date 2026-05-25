@@ -1,59 +1,82 @@
-<div id="contenedor-samuray" style="text-align: center; margin: 40px auto; max-width: 400px; padding: 20px; border: 2px dashed #00ffcc; border-radius: 15px; background-color: #111;">
+<!-- ========================================== -->
+<!-- COMPONENTE FUTURISTA: CONSOLA CIBERNÉTICA SANGRE-NUEVA-2A -->
+<!-- ========================================== -->
+<div id="consola-futurista" style="max-width: 500px; margin: 40px auto; padding: 30px; background: rgba(5, 5, 10, 0.95); border: 2px solid #00ffcc; border-radius: 5px; font-family: 'Courier New', Courier, monospace; box-shadow: 0 0 30px rgba(0, 255, 204, 0.2), inset 0 0 15px rgba(0, 255, 204, 0.1); position: relative; overflow: hidden;">
     
-    <button id="btn-samuray" onclick="playSamuray()" style="background: linear-gradient(45deg, #ff0055, #00ffcc); color: #000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 24px; padding: 15px 30px; border: none; border-radius: 50px; cursor: pointer; box-shadow: 0 0 20px rgba(0,255,204,0.6); text-transform: uppercase; transition: transform 0.1s; width: 100%;">
-        🔥 ¡Suena Samuray! 🔥
-    </button>
-    
-    <p style="color: #00ffcc; font-family: 'Courier New', monospace; margin-top: 15px; font-size: 20px; font-weight: bold; letter-spacing: 3px; text-shadow: 0 0 10px #00ffcc;">
-        ¡CU-CU-CU-CUMBIA!
-    </p>
+    <!-- Efecto de Escaneo de Pantalla (Línea del futuro) -->
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 2px; background: rgba(0, 255, 204, 0.5); box-shadow: 0 0 10px #00ffcc; animation: scanline 4s linear infinite;"></div>
 
-    <audio id="audio-samuray" src="https://actions.google.com/sounds/v1/music/latin_percussion_reggae.ogg"></audio>
+    <!-- Encabezado de la Consola -->
+    <div style="display: flex; justify-content: space-between; border-bottom: 1px solid rgba(0, 255, 204, 0.3); padding-bottom: 10px; margin-bottom: 25px; font-size: 11px; color: #00ffcc; opacity: 0.8;">
+        <span>SYS_STATUS: ACTIVE</span>
+        <span>PORTAL_V.2026</span>
+    </div>
 
+    <!-- SECCIÓN: DECRETO QUANTUM ALEXA -->
+    <section id="decreto-quantum" style="margin-bottom: 35px;">
+        <h2 style="color: #fff; font-size: 18px; margin: 0 0 15px 0; text-transform: uppercase; letter-spacing: 3px; font-weight: bold; text-shadow: 0 0 8px rgba(255, 255, 255, 0.5);">
+            ⚡ DECRETO MODULACIÓN VOCAL
+        </h2>
+        
+        <p style="font-style: italic; color: #00ffcc; font-size: 14px; line-height: 1.6; margin-bottom: 20px; border-left: 3px solid #ff0055; padding-left: 15px; text-shadow: 0 0 5px rgba(0, 255, 204, 0.3);">
+            "Yo Soy la puerta abierta a la comunicación fluida, natural y armónica. Que la rigidez del metal se transforme en la fluidez del viento."
+        </p>
+
+        <div style="background: rgba(0, 0, 0, 0.6); padding: 15px; border-radius: 4px; border: 1px solid rgba(255, 0, 85, 0.3); box-shadow: inset 0 0 10px rgba(255, 0, 85, 0.1);">
+            <ul style="color: #99ffa1; font-size: 12px; line-height: 1.8; margin: 0; padding-left: 20px; list-style-type: square;">
+                <li><strong style="color: #fff;">FRECUENCIA:</strong> Red de respuesta orgánica elocuente.</li>
+                <li><strong style="color: #fff;">MODO BREVE:</strong> Bypass de respuestas repetitivas analógicas.</li>
+                <li><strong style="color: #fff;">RITMO SYNC:</strong> Tiempo optimizado de asimilación cuántica.</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- SECCIÓN: INTERFAZ DE AUDIO SONIDERO -->
+    <div id="modulo-sonido" style="text-align: center; border-top: 1px solid rgba(0, 255, 204, 0.3); padding-top: 25px;">
+        
+        <!-- El Botón Cyber-Samuray -->
+        <button id="btn-samuray-futuro" onclick="playSamurayFuturo()" style="background: transparent; color: #00ffcc; font-family: 'Courier New', monospace; font-size: 20px; font-weight: bold; padding: 15px 25px; border: 2px solid #00ffcc; border-radius: 4px; cursor: pointer; text-transform: uppercase; letter-spacing: 2px; position: relative; transition: all 0.3s ease; box-shadow: 0 0 10px rgba(0, 255, 204, 0.2); width: 100%;">
+            ⚡ ACTIVAR SAMURAY ⚡
+        </button>
+        
+        <!-- Texto de Frecuencia Cumbia -->
+        <p style="color: #ff0055; margin-top: 15px; font-size: 16px; font-weight: bold; letter-spacing: 4px; text-shadow: 0 0 8px #ff0055; animation: blinker 1.5s linear infinite;">
+            >> CU-CU-CU-CUMBIA_WAVE <<
+        </p>
+
+        <!-- Audio del Sistema -->
+        <audio id="audio-samuray-futuro" src="https://actions.google.com/sounds/v1/music/latin_percussion_reggae.ogg"></audio>
+    </div>
 </div>
 
+<!-- ESTILOS Y ANIMACIONES FUTURISTAS (CSS) -->
+<style>
+@keyframes scanline {
+    0% { top: 0%; }
+    100% { top: 100%; }
+}
+@keyframes blinker {
+    50% { opacity: 0.3; }
+}
+#btn-samuray-futuro:hover {
+    background: #00ffcc !important;
+    color: #000 !important;
+    box-shadow: 0 0 25px #00ffcc !important;
+    transform: translateY(-2px);
+}
+#btn-samuray-futuro:active {
+    transform: translateY(1px);
+}
+</style>
+
+<!-- LÓGICA DE ACTIVACIÓN -->
 <script>
-function playSamuray() {
-    var audio = document.getElementById('audio-samuray');
-    var boton = document.getElementById('btn-samuray');
-    
+function playSamurayFuturo() {
+    var audio = document.getElementById('audio-samuray-futuro');
     if (audio) {
-        // Efecto visual rápido de pulsación
-        boton.style.transform = 'scale(0.95)';
-        setTimeout(function(){ boton.style.transform = 'scale(1)'; }, 100);
-        
-        // Reinicia y reproduce con sabor
         audio.currentTime = 0; 
-        audio.play().catch(function(error) {
-            console.log("Error al reproducir: ", error);
-        });
+        audio.play().catch(function(e) { console.log(e); });
     }
 }
-</script><section id="decreto-alexa" style="max-width: 450px; margin: 40px auto; padding: 25px; border: 2px solid #333; border-radius: 15px; background: #0d0d0d; box-shadow: 0 0 15px rgba(255,255,255,0.05); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    
-    <h2 style="text-align: center; color: #fff; font-size: 20px; margin-top: 0; text-transform: uppercase; letter-spacing: 2px; border-bottom: 2px solid #222; padding-bottom: 10px;">
-        ✨ Decreto de Modulación Vocal
-    </h2>
-    
-    <p style="font-style: italic; text-align: center; color: #00ffcc; font-size: 15px; line-height: 1.6; padding: 0 10px; margin-bottom: 20px;">
-        "Yo Soy la puerta abierta a la comunicación fluida, natural y armónica. Que la rigidez del metal se transforme en la fluidez del viento."
-    </p>
-    
-    <div style="background-color: #141414; padding: 15px; border-radius: 8px; border-left: 4px solid #ff0055;">
-        <h3 style="color: #fff; font-size: 14px; margin: 0 0 10px 0; text-transform: uppercase; letter-spacing: 1px;">
-            ⚙️ Calibración del Sistema:
-        </h3>
-        <ul style="color: #ccc; font-size: 13px; line-height: 1.8; margin: 0; padding-left: 20px;">
-            <li style="margin-bottom: 8px;">
-                <strong style="color: #fff;">Frecuencia Órganica:</strong> Configurada para responder con elocuencia, rompiendo patrones monótonos y mecánicos.
-            </li>
-            <li style="margin-bottom: 8px;">
-                <strong style="color: #fff;">Modo Breve Activo:</strong> Respuestas directas, eliminando frases repetitivas y confirmaciones innecesarias.
-            </li>
-            <li>
-                <strong style="color: #fff;">Ritmo y Tiempo:</strong> Velocidad ajustada para un entendimiento inmediato, fluido y natural.
-            </li>
-        </ul>
-    </div>
-</section>
-
+</script>
+<!-- ========================================== -->
