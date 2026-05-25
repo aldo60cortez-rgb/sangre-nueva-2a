@@ -1,96 +1,32 @@
-<div style="text-align: center; margin: 25px auto; max-width: 90%; padding: 0 10px;">
-    <a href="salud-integral.html" style="
-        display: inline-block;
-        width: 100%;
-        max-width: 400px;
-        padding: 16px 20px;
-        background: linear-gradient(145deg, #11141a, #1a1f29);
-        color: #ffd700;
-        border: 2px solid #ffd700;
-        border-radius: 50px;
-        text-decoration: none;
-        font-weight: bold;
-        font-size: 1.1rem;
-        text-transform: uppercase;
-        letter-spacing: 2px;
-        box-shadow: 0 0 20px rgba(255, 215, 0, 0.4);
-        box-sizing: border-box;
-        font-family: sans-serif;
-    ">
-        ✨ Portal de Salud Integral ✨
-    </a>
+<div id="contenedor-samuray" style="text-align: center; margin: 40px auto; max-width: 400px; padding: 20px; border: 2px dashed #00ffcc; border-radius: 15px; background-color: #111;">
+    
+    <button id="btn-samuray" onclick="playSamuray()" style="background: linear-gradient(45deg, #ff0055, #00ffcc); color: #000; font-family: 'Impact', 'Arial Black', sans-serif; font-size: 24px; padding: 15px 30px; border: none; border-radius: 50px; cursor: pointer; box-shadow: 0 0 20px rgba(0,255,204,0.6); text-transform: uppercase; transition: transform 0.1s; width: 100%;">
+        🔥 ¡Suena Samuray! 🔥
+    </button>
+    
+    <p style="color: #00ffcc; font-family: 'Courier New', monospace; margin-top: 15px; font-size: 20px; font-weight: bold; letter-spacing: 3px; text-shadow: 0 0 10px #00ffcc;">
+        ¡CU-CU-CU-CUMBIA!
+    </p>
+
+    <audio id="audio-samuray" src="https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg"></audio>
+
 </div>
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>Portal del Guerrero Invulnerable</title>
-    <style>
-        body { background-color: #000; color: #fff; font-family: sans-serif; text-align: center; }
-        .victoria { border: 5px double #ffd700; padding: 20px; margin: 20px; background: linear-gradient(to bottom, #333, #000); }
-        h1 { color: #ffd700; }
-    </style>
-</head>
-<body>
-
-    <div class="victoria">
-        <h1>🏆 VICTORIA TOTAL: LA LUZ GANA 🏆</h1>
-        <p><em>"Toda oscuridad al piso. El bien santo se levanta."</em></p>
-        <hr>
-        <h2>ESTATUS DE COMBATE: GANAMOS</h2>
-        <p>Bajo la autoridad de <strong>Sandores Chamán</strong> y el sello <strong>(A.A/C.Z)</strong>,</p>
-        <p>proclamamos que los puentes están abiertos y la Verdad es la única ley.</p>
-        <h3>¡ALELUYA! ¡AMÉN!</h3>
-    </div>
-
-    <section id="base-manifestacion">
-        <h2>🛡️ Sello de Materialización Física</h2>
-        <p>Estatus: <span style="color: #00ff00;">MATERIALIZADO Y RESGUARDADO</span></p>
-        <img src="1000165895.jpg" alt="Base de Operaciones Tulancingo" width="90%" style="border: 2px solid #ffd700;">
-        <p><em>"Lo que en sueños fue planeado, hoy en Tulancingo está plantado."</em></p>
-    </section>
-
-    <footer style="margin-top: 50px; opacity: 0.7;">
-        <p>Bajo la voluntad del Altísimo. Firma y Guardián: (A.A/C.Z)</p>
-    </footer>
-
-</body>
-</html>
-<div style="text-align: center; margin: 30px 0;">
-    <a href="salud-integral.html" style="
-        display: inline-block;
-        padding: 15px 35px;
-        background: linear-gradient(145deg, #11141a, #1a1f29);
-        color: #ffd700;
-        border: 2px solid #ffd700;
-        border-radius: 30px;
-        text-decoration: none;
-        font-weight: bold;
-        font-size: 1.2rem;
-        text-transform: uppercase;
-        letter-spacing: 2px;
-        box-shadow: 0 0 15px rgba(255, 215, 0, 0.4);
-        transition: all 0.3s ease;
-    ">
-    <div style="text-align: center; margin: 30px 0;">
-    <a href="salud-integral.html" style="
-        display: inline-block;
-        padding: 15px 35px;
-        background: linear-gradient(145deg, #11141a, #1a1f29);
-        color: #ffd700;
-        border: 2px solid #ffd700;
-        border-radius: 30px;
-        text-decoration: none;
-        font-weight: bold;
-        font-size: 1.2rem;
-        text-transform: uppercase;
-        letter-spacing: 2px;
-        box-shadow: 0 0 15px rgba(255, 215, 0, 0.4);
-        transition: all 0.3s ease;
-    ">
-        ✨ Portal de Salud Integral ✨
-    </a>
-    </div>
+<script>
+function playSamuray() {
+    var audio = document.getElementById('audio-samuray');
+    var boton = document.getElementById('btn-samuray');
+    
+    if (audio) {
+        // Efecto visual rápido de pulsación
+        boton.style.transform = 'scale(0.95)';
+        setTimeout(function(){ boton.style.transform = 'scale(1)'; }, 100);
         
-
+        // Reinicia y reproduce
+        audio.currentTime = 0; 
+        audio.play().catch(function(error) {
+            console.log("Error al reproducir: ", error);
+        });
+    }
+}
+</script>
