@@ -8,7 +8,7 @@
         ¡CU-CU-CU-CUMBIA!
     </p>
 
-    <audio id="audio-samuray" src="https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg"></audio>
+    <audio id="audio-samuray" src="https://actions.google.com/sounds/v1/music/latin_percussion_reggae.ogg"></audio>
 
 </div>
 
@@ -22,7 +22,7 @@ function playSamuray() {
         boton.style.transform = 'scale(0.95)';
         setTimeout(function(){ boton.style.transform = 'scale(1)'; }, 100);
         
-        // Reinicia y reproduce
+        // Reinicia y reproduce con sabor
         audio.currentTime = 0; 
         audio.play().catch(function(error) {
             console.log("Error al reproducir: ", error);
