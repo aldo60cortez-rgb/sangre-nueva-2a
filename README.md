@@ -18,6 +18,6 @@ Bienvenido al centro de control digital de **Aldo Angel 'El Alim' Salazar (Emper
 3. **Filtro de Frecuencia:** Espacio libre de ruido. Solo la verdad, la música del mañana y los decretos reales permanecen indexados.
 
 ---
-`Propiedad de Aldo Angel Salazar • Tulancingo, Hidalgo, México • 2026`
+`Propiedad de Aldo Angel Salazar • Tulancingo, Hidalgo, México • 2026`.
 
 
